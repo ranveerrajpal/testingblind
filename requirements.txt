@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn
+opencv-python
+numpy
+pyttsx3
+speechrecognition
+ultralytics
+pydantic
+base64
+asyncio
